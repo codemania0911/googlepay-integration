@@ -134,7 +134,7 @@ google pay javascript source code:
          */
         function getGooglePaymentsClient() {
           if ( paymentsClient === null ) {
-            paymentsClient = new google.payments.api.PaymentsClient({environment: 'PRODUCTION'});
+            paymentsClient = new google.payments.api.PaymentsClient({environment: 'PRODUCTION'}); // test and production(production real enviroment, test test enviroment)
           }
           return paymentsClient;
         }
