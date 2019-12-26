@@ -2,7 +2,7 @@
 tutorial
 
 
-googlepay: https://www.youtube.com/watch?v=pZyGYUMZAeg
+googlepay youtube tutorial: https://www.youtube.com/watch?v=pZyGYUMZAeg
 
 google pay javascript source code:
 
