@@ -186,7 +186,7 @@ google pay javascript source code:
             currencyCode: 'USD',
             totalPriceStatus: 'FINAL',
             // set to cart total
-            totalPrice: '1.00'
+            totalPrice: '4.00'
           };
         }
         
