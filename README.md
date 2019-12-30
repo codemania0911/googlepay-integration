@@ -1,6 +1,5 @@
 # googlepay-integration
 
-
 googlepay youtube tutorial: https://www.youtube.com/watch?v=pZyGYUMZAeg
 
 google pay javascript source code:
