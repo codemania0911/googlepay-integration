@@ -1,5 +1,4 @@
 # googlepay-integration
-tutorial
 
 
 googlepay youtube tutorial: https://www.youtube.com/watch?v=pZyGYUMZAeg
