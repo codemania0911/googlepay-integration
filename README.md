@@ -50,6 +50,7 @@ google pay javascript source code:
           }
         };
         
+        
         /**
           * Describe your site's support for the CARD payment method and its required
          * fields
